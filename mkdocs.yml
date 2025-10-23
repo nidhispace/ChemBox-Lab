@@ -1,0 +1,21 @@
+site_name: BoxModel-KPP-BOXMOX
+theme:
+  name: material
+  logo: docs/assets/logo.svg
+
+nav:
+  - Home: index.md
+  - Tutorials:
+      - Introduction to Box Models: tutorials/01_intro_box_model.md
+      - KPP Basics: tutorials/02_kpp_basics.md
+      - .eqn Files Explained: tutorials/03_eqn_files.md
+      - Running a Simple Box Model: tutorials/04_run_simple_box_model.md
+      - Complex Mechanisms: tutorials/05_complex_mechanisms.md
+      - BOXMOX Workflow: tutorials/06_boxmox_workflow.md
+
+  - Examples:
+      - Simple NOx: examples/simple_NOx_example.md
+      - Isoprene Chemistry: examples/isoprene_chemistry.md
+      - Urban Air Pollution: examples/urban_air_pollution.md
+  
+  - References: references.md

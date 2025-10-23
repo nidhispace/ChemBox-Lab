@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="images/download.svg" alt="ChemBox-Lab Logo" width="200">
+  <img src="docs/assets/download.svg" alt="ChemBox-Lab Logo" width="200">
 </p>
 
 # ChemBox-Lab
@@ -40,28 +40,45 @@ You’ll find:
 ```
 boxmodel-kpp-boxmox/
 │
-├── docs/                     # Chapters and explanations
-│   ├── 01_intro_box_model.md
-│   ├── 02_kpp_basics.md
-│   ├── 03_eqn_files.md
-│   ├── 04_run_simple_box_model.md
-│   ├── 05_complex_mechanisms.md
-│   └── ...
+├── README.md
+├── LICENSE
+├── mkdocs.yml                 # Docs configuration
 │
-├── examples/                 # Ready-to-run examples
-│   ├── simple_NOx_example/
-│   ├── isoprene_chemistry/
-│   └── urban_air_pollution/
+├── docs/                      # MkDocs documentation
+│   │
+│   ├── index.md               # Home page
+│   │
+│   ├── tutorials/             # Learning content / chapters
+│   │   ├── 01_intro_box_model.md
+│   │   ├── 02_kpp_basics.md
+│   │   ├── 03_eqn_files.md
+│   │   ├── 04_run_simple_box_model.md
+│   │   ├── 05_complex_mechanisms.md
+│   │   ├── 06_boxmox_workflow.md
+│   │   └── ...
+│   │
+│   ├── examples/              # Example workflows in docs
+│   │   ├── simple_NOx_example.md
+│   │   ├── isoprene_chemistry.md
+│   │   └── urban_air_pollution.md
+│   │
+│   ├── assets/                # Logo + images for docs
+│   │   ├── logo.svg
+│   │   └── figures/
+│   │
+│   └── references.md          # Citations/manual links
 │
-├── kpp_mechanisms/           # .eqn mechanism files
+├── mechanisms/                # Real input data (not docs)
+│   └── *.eqn
 │
-├── boxmox_projects/          # Simulation setups for BOXMOX
+├── boxmox_projects/           # BOXMOX simulation setups
+│   └── project_01/
 │
-├── scripts/                  # Helper utilities
+├── scripts/                   # Helper tools
 │   ├── run_boxmodel.sh
 │   └── plot_results.py
-│
-└── README.md
+└──
+
 ```
 
 ---
