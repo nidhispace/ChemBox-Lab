@@ -95,11 +95,11 @@ boxmodel-kpp-boxmox/
 ### Quick Start
 
 ```bash
-git clone https://github.com/nidhispace/KPP-BOXMOX_box_model.git
-cd KPP-BOXMOX_box_model
+git clone https://github.com/nidhispace/ChemBox-Lab.git
+cd ChemBox-Lab/
 
 # Example: Compile a simple mechanism
-cd examples/simple_NOx_example
+cd docs/examples/simple_NOx_example/
 make
 ./boxmodel
 ```
