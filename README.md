@@ -1,6 +1,10 @@
-# Atmospheric Chemistry Box Modeling with KPP + BOXMOX
+<p align="center">
+  <img src="images/download.svg" alt="ChemBox-Lab Logo" width="200">
+</p>
 
-<img width="180" height="180" alt="image" src="https://github.com/user-attachments/assets/43258fe7-a238-4a09-a928-6319dddf493e" />
+# ChemBox-Lab
+
+## Atmospheric Chemistry Box Modeling with KPP + BOXMOX
 
 
 A practical, hands-on guide to building and running atmospheric chemistry **box models** using **KPP** (Kinetic PreProcessor) and **BOXMOX**.
