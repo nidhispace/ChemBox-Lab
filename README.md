@@ -1,5 +1,8 @@
 # Atmospheric Chemistry Box Modeling with KPP + BOXMOX
 
+<img width="180" height="180" alt="image" src="https://github.com/user-attachments/assets/43258fe7-a238-4a09-a928-6319dddf493e" />
+
+
 A practical, hands-on guide to building and running atmospheric chemistry **box models** using **KPP** (Kinetic PreProcessor) and **BOXMOX**.
 This repository is designed to take you from zero to fully working simulations, with clear examples and organized chapters.
 
