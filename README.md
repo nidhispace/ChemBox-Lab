@@ -74,11 +74,10 @@ boxmodel-kpp-boxmox/
 ├── boxmox_projects/           # BOXMOX simulation setups
 │   └── project_01/
 │
-├── scripts/                   # Helper tools
-│   ├── run_boxmodel.sh
-│   └── plot_results.py
-└──
-
+└── scripts/                   # Helper tools
+    ├── run_boxmodel.sh
+    └── plot_results.py
+ 
 ```
 
 ---
