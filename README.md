@@ -54,17 +54,12 @@ boxmodel-kpp-boxmox/
 │   │   ├── 03_eqn_files.md
 │   │   ├── 04_run_simple_box_model.md
 │   │   ├── 05_complex_mechanisms.md
-│   │   ├── 06_boxmox_workflow.md
-│   │   └── ...
+│   │   └── 06_boxmox_workflow.md
 │   │
 │   ├── examples/              # Example workflows in docs
 │   │   ├── simple_NOx_example.md
 │   │   ├── isoprene_chemistry.md
 │   │   └── urban_air_pollution.md
-│   │
-│   ├── assets/                # Logo + images for docs
-│   │   ├── logo.svg
-│   │   └── figures/
 │   │
 │   └── references.md          # Citations/manual links
 │
@@ -130,18 +125,7 @@ To create a **clear, accessible** learning resource for:
 
 ## ✅ Status
 
-📚 Active Development — new chapters and examples are being added.
-Feedback and contributions are always welcome!
-
----
-
-## 🤝 Contributing
-
-If you’d like to help improve tutorials, add mechanisms, or clean up scripts:
-
-1. Fork the repo
-2. Create a feature branch
-3. Submit a pull request 🎉
+📚 Still under Development
 
 ---
 
